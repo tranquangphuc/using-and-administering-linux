@@ -38,3 +38,26 @@ To build my own supercomputer.
 #### 8. How would you access the Linux command line if there were no GUI desktop installed on the Linux host?
 
 Using the virtual terminal
+
+
+### Chapter 2. Introduction to the Operating System
+
+#### 1. What is the primary function of the operating system?
+
+Memory management
+
+#### 2. List at least four additional functions of an operating system.
+
+- Multitask
+- Multiuser
+- Inter-process cummunication
+- Device management
+- Error handling
+
+#### 3. Describe the purpose of the Linux core utilities as a group.
+
+These utilities address tasks that include management and manipulation of text files, directories, data streams, various types of strorage media, process controls, filesystems, and much more.
+
+#### 4. Why Linus Torvalds choose to use the GNU core utilities for Linux instead of writing his own?
+
+It is freely available.
