@@ -61,3 +61,31 @@ These utilities address tasks that include management and manipulation of text f
 #### 4. Why Linus Torvalds choose to use the GNU core utilities for Linux instead of writing his own?
 
 It is freely available.
+
+### Chapter 3. The Linux Philosophy for SysAdmin
+
+### Chapter 4. Preparation
+
+#### 1. Can the name of the volume group created by the Anaconda installer be changed during the installation?
+
+Yes
+
+#### 2. How much swap space is recommended in Fedora documentation for a host with 10GB of RAM that does not require hibernation?
+
+minimum 4GB of swap space
+
+#### 3. On what factors are the swap space recommendations based?
+
+The host RAM and thrashing point
+
+#### 4. How much total space was used by the installation?
+
+100MB
+
+#### 5. What is purpose of snapshots?
+
+To backup the system
+
+#### 6. Is it possible to take the snapshot while the VM is up and running?
+
+Yes
